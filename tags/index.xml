@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Viola Ziwei Song</title>
+    <link>https://violaziweisong.com/tags/</link>
+    <description>Recent content in Tags on Viola Ziwei Song</description>
+    <image>
+      <title>Viola Ziwei Song</title>
+      <url>https://github.com/songssssss/zwsong.github.io/blob/1996de3e4bd35620d30255395a4f88d1c2270bf4/image.jpg</url>
+      <link>https://github.com/songssssss/zwsong.github.io/blob/1996de3e4bd35620d30255395a4f88d1c2270bf4/image.jpg</link>
+    </image>
+    <generator>Hugo -- 0.132.0</generator>
+    <language>en-us</language>
+    <copyright>2024 violaziweisong</copyright>
+    <atom:link href="https://violaziweisong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
