@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Viola Ziwei Song</title>
-    <link>https://violaziweisong.com/</link>
+    <link>https://violaziweisong.github.io/Homepage/</link>
     <description>Recent content on Viola Ziwei Song</description>
     <image>
       <title>Viola Ziwei Song</title>
@@ -13,35 +13,35 @@
     <language>en-us</language>
     <copyright>2024 violaziweisong</copyright>
     <lastBuildDate>Wed, 21 Aug 2024 13:20:14 +0800</lastBuildDate>
-    <atom:link href="https://violaziweisong.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://violaziweisong.github.io/Homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://violaziweisong.com/projects/</link>
+      <link>https://violaziweisong.github.io/Homepage/projects/</link>
       <pubDate>Wed, 21 Aug 2024 13:20:14 +0800</pubDate>
-      <guid>https://violaziweisong.com/projects/</guid>
-      <description>Flink VIS Vast Challenge 2022 Performed data aggregation, analysis and transformation using PySpark on 1,000 participants status logs Visualized travel journal data using maps, line charts, with filters to present the current traffic condition using Tableau Derived insights on the commute pattern over time and provided suggestions on potential bottlenecks Mar 2023 - May 2023
-Deep Convolutional Neural Network For Limit Order Books Implemented a DeepLOB model based on HSI data (replicate the model raised up in the paper https://arxiv.</description>
+      <guid>https://violaziweisong.github.io/Homepage/projects/</guid>
+      <description>Real-Time Query Processing Pipeline for TPC-H Workloads Using Apache Flink Mar 2023 - Aug 2023 View details Github
+Designed and implemented a real-time data streaming pipeline using Apache Flink to process continuous updates for TPC-H Query 5, optimizing multi-way joins over acyclic schemas Preprocessed and simulated dynamic data environments with insertions, deletions, and randomized streams, showcasing Flink&amp;rsquo;s capability for handling large-scale analytical workloads Achieved high-throughput real-time query processing, validating results against DuckDB benchmarks and demonstrating scalability across varying dataset sizes VIS Vast Challenge 2022 Mar 2023 - May 2023 View details</description>
     </item>
     <item>
       <title>Gallery</title>
-      <link>https://violaziweisong.com/gallery/</link>
+      <link>https://violaziweisong.github.io/Homepage/gallery/</link>
       <pubDate>Tue, 20 Aug 2024 13:21:10 +0800</pubDate>
-      <guid>https://violaziweisong.com/gallery/</guid>
-      <description>New York Boston Introduction content goes here. Los Angeles Content related to Topic A. No.1 Road Trip San Franscisco Content related to Topic B. Inner Mongolian Final thoughts and conclusions. Na Gradua Navigation Links: Go to Introduction Go to Topic A Go to Topic B Go to Conclusion </description>
+      <guid>https://violaziweisong.github.io/Homepage/gallery/</guid>
+      <description>New York Boston Introduction content goes here. Los Angeles Content related to Topic A. No.1 Road Trip San Franscisco Content related to Topic B. Inner Mongolian Final thoughts and conclusions. Graduation Ceremony Navigation Links: Resume About Go to Topic B Go to Conclusion </description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://violaziweisong.com/about/</link>
+      <link>https://violaziweisong.github.io/Homepage/about/</link>
       <pubDate>Tue, 20 Aug 2024 13:04:58 +0800</pubDate>
-      <guid>https://violaziweisong.com/about/</guid>
-      <description>About me I am a master student from Big Data Technology program at Hong Kong University of Science and Technology (HKUST). I have a strong passion for data science. I enjoy the process of deriving insights from massive data. I am a fast learner and always eager to learn new things so that I&amp;rsquo;m very open to other&amp;rsquo;s opinions.
-With a strong foundation in statistics from a Bachelor of Science degree, I embarked on a career as a research assistant in a medical school, where I honed my analytical skills in a healthcare setting.</description>
+      <guid>https://violaziweisong.github.io/Homepage/about/</guid>
+      <description>Hi, I’m Viola Ziwei Song, a data analyst with nearly three years of experience across diverse industries, including banking, research, and medical science. I recently moved from Hong Kong to Toronto to embark on an exciting new chapter in my career and life in Canada.
+I hold a Master’s degree in Big Data Technology from The Hong Kong University of Science and Technology, where I specialized in machine learning, data visualization, data analysis, and data engineering.</description>
     </item>
     <item>
       <title></title>
-      <link>https://violaziweisong.com/list/</link>
+      <link>https://violaziweisong.github.io/Homepage/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://violaziweisong.com/list/</guid>
+      <guid>https://violaziweisong.github.io/Homepage/list/</guid>
       <description>&lt;!DOCTYPE html&gt; Timeline 2024 Event description for 2024.
 2023 Event description for 2023.</description>
     </item>
